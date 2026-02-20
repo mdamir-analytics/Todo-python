@@ -1,4 +1,4 @@
-FILE_NAME="tasks.txt"
+FILE_NAME="Tasks.txt"
 
 def load_tasks():
     try:
